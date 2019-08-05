@@ -1,1 +1,4 @@
-# Write your code here.
+conference_badges
+  each_with_index
+end
+  end
